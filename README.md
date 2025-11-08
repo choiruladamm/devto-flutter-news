@@ -78,10 +78,6 @@ Uses [Dev.to API](https://developers.forem.com/api) (no auth required):
 - [ ] Dark mode
 - [ ] Offline reading
 
-## Screenshots
-
-(Add screenshots here)
-
 ---
 
 Built with Flutter 3.x
